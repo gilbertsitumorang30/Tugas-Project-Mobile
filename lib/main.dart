@@ -51,6 +51,7 @@ class Home extends StatelessWidget {
               ),
             ),
           ),
+          Text("Feautre darik Marado"),
         ],
       ),
     );
